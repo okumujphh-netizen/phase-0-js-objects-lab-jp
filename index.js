@@ -41,7 +41,7 @@ removeEventProperty(attendee)
 function addCheckedInProperty(attendee){
   attendee.checkedIn = true;
 }
-addCheckedInProperty(attendee);
+
 
 
 //Needed for the tests to work. Don't modify
